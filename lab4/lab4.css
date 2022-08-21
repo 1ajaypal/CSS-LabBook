@@ -1,0 +1,38 @@
+.div1{
+    border-radius: 0.2cm;
+    border-width: 0.02cm 0.02cm 0.02cm 0.02cm;
+    border-color: red;
+    border-style:solid;
+    background-color: rgb(111, 136, 159);
+    box-shadow: rgba(16, 26, 36);
+}
+.div2{
+    border-radius: 0.2cm;
+    border-width: 0.02cm 0.02cm 0.02cm 0.02cm;
+    border-color: black;
+    border-style:solid;
+    background-color: rgb(111, 136, 159);
+}
+
+#p1, #p2, #p3, #p4, #p5{
+    color:rgb(163, 173, 183);
+    color: hsl(hue, saturation, lightness);
+    color: hsla(hue, saturation, lightness, alpha);
+    color: rgb(red, green, blue);
+    color:rgba(red, green, blue, alpha);
+}
+
+#d1, #d2, #d3{
+    background-image: url(../images/1.jpg);
+    border-radius: 00.2cm;
+    border-width: 0.02cm 0.02cm 0.02cm 0.02cm;
+    border-spacing: 1cm;
+    
+}
+
+img{
+    border-style:hidden;
+    border-radius: 5cm;
+    border-color: blue;
+    border-width: 1cmm 1cm 1cm 1cm;
+}

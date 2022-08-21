@@ -1,0 +1,36 @@
+*{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 1000;
+}
+h1,div {
+    color: blueviolet;
+}
+p{
+    color:red;
+}
+
+.div_class{
+    text-decoration: overline;
+    font-family: cursive;
+}
+
+.para_class{
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p1{
+    color: aqua;
+}
+#p2{
+    color: black;
+}
+#p3, #p4, #p5{
+    text-decoration-color: black;
+}
+
+#d1,#d2, #d3{
+    text-decoration-line: line-through;
+}
